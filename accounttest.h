@@ -4,7 +4,8 @@ does not exceed the withdraw that withdraws
 Ensure that the withdrawal amount Account ’s balance. If it does, the balance
 should be left unchanged and the member function should 
 display a message indicating "Withdrawal amount exceeded account balance."
-member function Modify class (Fig. 3.9) to test AccountTest withdraw */
+member function Modify class (Fig. 3.9) to test AccountTest withdraw
+(c++ how to program) */
 //class can add name ,deposite and withdraws
 #include <string>
 
