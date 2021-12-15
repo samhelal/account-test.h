@@ -27,8 +27,8 @@ class account {
             balance = balance + depositAmount ;
         }
     }
-    void withdraw ( int withdrawAmount ){
-        if (withdrawAmount <=balance){
+    void withdraw ( int withdrawAmount ){ 
+        if (withdrawAmount <=balance){           //to make sure the withdraw amount does not exceed the balance
             balance = balance - withdrawAmount ;
         }
     }
